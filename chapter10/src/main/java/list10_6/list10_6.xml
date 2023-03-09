@@ -1,0 +1,9 @@
+<hero>
+    <name>test_user3</name>
+    <hp>600</hp>
+    <mp>300</mp>
+    <weapon>
+        <name>TinyBee</name>
+        <attack>81</attack>
+    </weapon>
+</hero>
